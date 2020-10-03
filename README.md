@@ -1,2 +1,3 @@
-# MyFirstPro
-This is my first project
+# Chat App
+This is my Chat Application.
+Technology used: Flutter
