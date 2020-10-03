@@ -33,7 +33,7 @@ class ChatScreenState extends State<ChatScreen>{
           children: <Widget>[
             new Flexible(child: new TextField(
               decoration: new InputDecoration.collapsed(
-                hintText: "Send a message"
+                labelText: "Send a message"
               ),
               controller: _textController,
               onSubmitted: _handleSubmitted,
@@ -55,7 +55,6 @@ class ChatScreenState extends State<ChatScreen>{
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return new Column(
       children: <Widget>[
         new Flexible(
