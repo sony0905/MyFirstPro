@@ -1,3 +1,3 @@
 # Chat App
-This is my Chat Application.
-Technology used: Flutter
+  - This is my Chat Application.
+  - Technology used: Flutter
